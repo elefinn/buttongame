@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+}
+#display {
+  color: red;
+  margin: 70px;
+  border-color: whitesmoke;
+}
+#btn {
+  background-color: red;
+  border-color: red;
+  text-color: black;
+  border-radius: 69%;
+  ///hahaha///
+}
